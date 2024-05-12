@@ -1,0 +1,100 @@
+{
+    "Deschtimes": {
+        "noToken": "Inget igenkännningstecken registrerat för denna server, vänligen använd /deschtimes registera",
+        "error": "Ett problem har uppstått...!",
+        "noShow": "Ingen matchande serie hittad.",
+        "noStaff": "Okänd uppgift.",
+        "notAired": "Det nuvarande avsnittet har inte släppts ännu.",
+        "alreadyCompleted": "Din uppgift är redan markerad som slutförd.",
+        "alreadyUnmarked": "Din uppgift är redan markerad som icke slutförd.",
+        "updateBatch": "Markerar **%3** som slutförd för avsnitt **%1** till **%2** av **%0**!",
+        "unmarkBatch": "Markerar **%3** som icke slutförd för avsnitt **%1** till **%2** av **%0**!",
+        "terminateUpdate": "Avslutar uppdatering på grund av ett fel...",
+        "update" : "Update",
+        "done": {
+            "name": "klar",
+            "description": "Markera en uppgift som slutförd",
+            "doneStaff": "Markerar **%0** som slutförd.",
+            "show": {
+                "name": "serie",
+                "description": "Serie som ska uppdateras"
+            },
+            "staff": {
+                "name": "uppgift",
+                "description": "Uppgift som ska uppdateras"
+            },
+            "episode": {
+                "name": "avsnitt",
+                "description": "Avsnitt som ska uppdateras"
+            }
+        },
+        "undone": {
+            "name": "ogör",
+            "description": "Markera en tidigare slutförd uppgift som icke slutförd",
+            "undoneStaff": "Markerar **%0** som icke slutförd.",
+            "show": {
+                "name": "serie",
+                "description": "Serie som ska uppdateras"
+            },
+            "staff": {
+                "name": "uppgift",
+                "description": "Uppgift som ska uppdateras"
+            },
+            "episode": {
+                "name": "avsnitt",
+                "description": "Avsnitt som ska uppdateras"
+            }
+        },
+        "release": {
+            "name": "släpp",
+            "description": "Markera ett avsnitt som släppt",
+            "message": "Avsnitt släppt!",
+            "show": {
+                "name": "name",
+                "description": "Serie som ska uppdateras"
+            }
+        },
+        "blame": {
+            "name": "anklaga",
+            "description": "Stäm av status av ett avsnitt",
+            "show": {
+                "name": "serie",
+                "description": "Serie som ska stämmas av"
+            },
+            "episode": {
+                "name": "avsnitt",
+                "description": "Avsnitt som ska stämmas av"
+            }
+        },
+        "blameall": {
+            "message": "Stämmer av position **%1** för alla avsnitt av **%0**.",
+            "name": "anklagaalla",
+            "description": "Stäm av statusen av en serie givet en specifik position.",
+            "show": {
+                "name": "serie",
+                "description": "Serie som ska stämmas av"
+            },
+            "staff": {
+                "name": "uppgift",
+                "description": "Uppgift som ska stämmas av"
+            }
+        },
+        "register": {
+            "registerOk": "Nytt igenkännningstecken tillagt för denna server!",
+            "alreadyToken": "Det finns redan ett igenkännningstecken för denna server.",
+            "error": "Någonting hände när informationen försökte läggas till.",
+            "name": "registrera",
+            "description": "Registrera din grupps Deschtimes igenkännningstecken för denna server",
+            "token": {
+                "name": "igenkännningstecken",
+                "description": "Din grupps Deschtimes igenkännningstecken"
+            }
+        },
+        "Embeds": {
+            "staffStatus": "Status",
+            "lastUpdate": "Senast uppdaterad",
+            "airs": "Släpps",
+            "aired": "Släppt"
+        }
+    }
+}

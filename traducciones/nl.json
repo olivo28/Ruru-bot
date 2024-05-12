@@ -1,0 +1,100 @@
+{
+    "Deschtimes": {
+        "noToken": "Geen token geregistreerd voor deze server, gebruik alstublieft /deschtimes registreer",
+        "error": "Sorry, er was een probleem...!",
+        "noShow": "Geen resultaten voor de opgegeven show.",
+        "noStaff": "Onbekende positie.",
+        "notAired": "De huidige aflevering is nog niet uitgezonden.",
+        "alreadyCompleted": "Uw positie is al reeds als voltooid gemarkeerd.",
+        "alreadyUnmarked": "Uw positie is al reeds als onvoltooid gemarkeerd.",
+        "updateBatch": "De positie, **%3**, wordt gemarkeerd als voltooid voor afleveringen **%1** tot **%2** van **%0**!",
+        "unmarkBatch": "De positie, **%3**, wordt gemarkeerd als onvoltooid voor afleveringen **%1** tot **%2** van **%0**!",
+        "terminateUpdate": "Update wordt afgehandled wegens een error...",
+        "update": "Update",
+        "done": {
+            "name": "afgerond",
+            "description": "Markeer een positie als voltooid.",
+            "doneStaff": "**%0** wordt gemarkeerd als voltooid.",
+            "show": {
+                "name": "show",
+                "description": "Show om te updaten."
+            },
+            "staff": {
+                "name": "positie",
+                "description": "Positie om te updaten."
+            },
+            "episode": {
+                "name": "aflevering",
+                "description": "Aflevering om te updaten."
+            }
+        },
+        "undone": {
+            "name": "onafgerond",
+            "description": "Markeer een eerder voltooide positie als onvoltooid.",
+            "undoneStaff": "**%0** wordt gemarkeerd als onvoltooid.",
+            "show": {
+                "name": "show",
+                "description": "Show om te updaten."
+            },
+            "staff": {
+                "name": "positie",
+                "description": "Positie om te updaten."
+            },
+            "episode": {
+                "name": "aflevering",
+                "description": "Aflevering om te updaten."
+            }
+        },
+        "release": {
+            "name": "publiceren",
+            "description": "Markeer een aflevering as gepubliceerd.",
+            "message": "Aflevering gepubliceerd!",
+            "show": {
+                "name": "show",
+                "description": "Show om te updaten."
+            }
+        },
+        "blame": {
+            "name": "beschuldig",
+            "description": "Controleer de status van een aflevering.",
+            "show": {
+                "name": "show",
+                "description": "Show om de status van te controleren."
+            },
+            "episode": {
+                "name": "aflevering",
+                "description": "Aflevering om de status van te controleren."
+            }
+        },
+        "blameall": {
+            "message": "Controleer positie **%1** voor alle afleveringen van **%0**.",
+            "name": "blameall",
+            "description": "Controleer de status van een show op basis van een specifieke positie.",
+            "show": {
+                "name": "show",
+                "description": "Show om te controleren."
+            },
+            "staff": {
+                "name": "position",
+                "description": "Positie om te controleren."
+            }
+        },
+        "register": {
+            "registerOk": "Token succesvol toegevoegd voor deze server!",
+            "alreadyToken": "Er is al een token voor deze server.",
+            "error": "Er is een fout opgetreden tijdens het toevoegen van de Deschtimes informatie.",
+            "name": "registreer",
+            "description": "Registreer de Deschtimes token van uw groep voor deze server.",
+            "token": {
+                "name": "token",
+                "description": "De Deschtimes token van uw groep."
+            }
+        },
+        "Embeds": {
+            "staffStatus": "Status",
+            "lastUpdate": "Laatst geupdate",
+            "airs": "Wordt uitgezonden",
+            "aired": "Is uitgezonden"
+        }
+    }
+}

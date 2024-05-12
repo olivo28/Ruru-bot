@@ -1,0 +1,100 @@
+{
+    "Deschtimes": {
+        "noToken": "No token registered for this server, please use /deschtimes register",
+        "error": "Sorry, a problem occurred...!",
+        "noShow": "No matching show found.",
+        "noStaff": "Unknown position.",
+        "notAired": "The current episode has not aired yet.",
+        "alreadyCompleted": "Your position is already marked as complete.",
+        "alreadyUnmarked": "Your position is already marked as incomplete.",
+        "updateBatch": "Marking **%3** complete for episodes **%1** to **%2** of **%0**!",
+        "unmarkBatch": "Marking **%3** incomplete for episodes **%1** to **%2** of **%0**!",
+        "terminateUpdate": "Finishing update because an error...",
+        "update" : "Update",
+        "done": {
+            "name": "done",
+            "description": "Mark a position as complete",
+            "doneStaff": "Marking **%0** as complete.",
+            "show": {
+                "name": "show",
+                "description": "Show to update"
+            },
+            "staff": {
+                "name": "position",
+                "description": "Position to update"
+            },
+            "episode": {
+                "name": "episode",
+                "description": "Episode to update"
+            }
+        },
+        "undone": {
+            "name": "undone",
+            "description": "Mark a previously-completed position as incomplete",
+            "undoneStaff": "Marking **%0** as incomplete.",
+            "show": {
+                "name": "show",
+                "description": "Show to update"
+            },
+            "staff": {
+                "name": "position",
+                "description": "Position to update"
+            },
+            "episode": {
+                "name": "episode",
+                "description": "Episode to update"
+            }
+        },
+        "release": {
+            "name": "release",
+            "description": "Mark an episode as released",
+            "message": "Episode released!",
+            "show": {
+                "name": "name",
+                "description": "Show to update"
+            }
+        },
+        "blame": {
+            "name": "blame",
+            "description": "Check the status of an episode",
+            "show": {
+                "name": "show",
+                "description": "Show to check on"
+            },
+            "episode": {
+                "name": "episode",
+                "description": "Episode to check on"
+            }
+        },
+        "blameall": {
+            "message": "Checking position **%1** for all episodes of **%0**.",
+            "name": "blameall",
+            "description": "Check the status of a series given a specific position",
+            "show": {
+                "name": "show",
+                "description": "Show to check"
+            },
+            "staff": {
+                "name": "position",
+                "description": "Position to check"
+            }
+        },
+        "register": {
+            "registerOk": "Successfully added a token for this server!",
+            "alreadyToken": "There is already a token for this server.",
+            "error": "Something happened while trying to add the information.",
+            "name": "register",
+            "description": "Register your group's Deschtimes token for this server",
+            "token": {
+                "name": "token",
+                "description": "Your group's Deschtimes token"
+            }
+        },
+        "Embeds": {
+            "staffStatus": "Status",
+            "lastUpdate": "Last Update",
+            "airs": "Airs",
+            "aired": "Aired"
+        }
+    }
+}

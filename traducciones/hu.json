@@ -1,0 +1,100 @@
+{
+    "Deschtimes": {
+        "noToken": "Nincs token regisztrálva ehhez a szerverhez, használd a /deschtimes register parancsot",
+        "error": "Bocsi, valami hiba történt...!",
+        "noShow": "Nem találtam ilyen című műsort.",
+        "noStaff": "Ismeretlen pozíció.",
+        "notAired": "Ez az epizód még nem jelent meg.",
+        "alreadyCompleted": "A pozíciód már kész.",
+        "alreadyUnmarked": "A pozíciód még nincs kész.",
+        "updateBatch": "A(z) **%0** című anime **%1** - **%2** részein **%3** késznek jelölése!",
+        "unmarkBatch": "A(z) **%0** című anime **%1** - **%2** részein **%3** visszavonása!",
+        "terminateUpdate": "Frissítés befejezése hiba miatt...",
+        "update": "Frissítés",
+        "done": {
+            "name": "kész",
+            "description": "Pozíció késznek jelölése az epizódnál",
+            "doneStaff": "**%0** megjelölése készként.", 
+            "show": {
+                "name": "műsor",
+                "description": "A frissítendő műsor"
+            },
+            "staff": {
+                "name": "pozíció",
+                "description": "A frissítendő pozíció"
+            },
+            "episode": {
+                "name": "epizód",
+                "description": "A frissítendő epizód"
+            }
+        },
+        "undone": {
+            "name": "visszavonás",
+            "description": "Pozíció visszavonása az epizódnál",
+            "undoneStaff": "**%0** megjelölése hiányos ként.",
+            "show": {
+                "name": "műsor",
+                "description": "A frissítendő műsor"
+            },
+            "staff": {
+                "name": "pozíció",
+                "description": "A frissítendő pozíció"
+            },
+            "episode": {
+                "name": "epizód",
+                "description": "A frissítendő epizód"
+            }
+        },
+        "release": {
+            "name": "kiadás",
+            "description": "Epizód kiadottnak jelölése",
+            "message": "Az epizód megjelent!",
+            "show": {
+                "name": "műsor",
+                "description": "A frissítendő műsor"
+            }
+        },
+        "blame": {
+            "name": "állapot",
+            "description": "Epizód állapotának megjelenítése",
+            "show": {
+                "name": "műsor",
+                "description": "A megjelenítendő műsor"
+            },
+            "episode": {
+                "name": "epizód",
+                "description": "A megjelenítendő epizód"
+            }
+        },
+        "blameall": {
+            "message": "A(z) **%0** című műsornál **%1** állapotának megjelenítése minden epizódjánál!",
+            "name": "összesállapot",
+            "description": "Adott pozíció állapotának megjelenítése adott műsor minden epizódjánál",
+            "show": {
+                "name": "műsor",
+                "description": "A megjelenítendő műsor"
+            },
+            "staff": {
+                "name": "pozíció",
+                "description": "A megjelenítendő pozíció"
+            }
+        },
+        "register": {
+            "registerOk": "Sikeresen hozzáadtad a tokent ehhez a szerverhez!",
+            "alreadyToken": "Már van token regisztrálva ehhez a szerverhez.",
+            "error": "Valami hiba történt az információ hozzáadása közben.",
+            "name": "regisztráció",
+            "description": "Regisztráld a csapatod Deschtimes tokenjét ehhez a szerverhez",
+            "token": {
+                "name": "token",
+                "description": "A csapatod Deschtimes tokenje"
+            }
+        },
+        "Embeds": {
+            "staffStatus": "Állapot",
+            "lastUpdate": "Utolsó frissítés",
+            "airs": "Megjelenés ideje",
+            "aired": "Megjelent"
+        }
+    }
+}

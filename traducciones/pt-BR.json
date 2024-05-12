@@ -1,0 +1,100 @@
+{
+    "Deschtimes": {
+        "noToken": "Nenhum token registrado para este servidor. Digite /deschtimes register para registrar.",
+        "error": "Desculpe, um problema ocorreu!",
+        "noShow": "Nenhum show encontrado.",
+        "noStaff": "Posição não reconhecida.",
+        "notAired": "Este episódio ainda não foi transmitido.",
+        "alreadyCompleted": "Sua posição já está marcada como completa.",
+        "alreadyUnmarked": "Sua posição já está marcada como incompleta.",
+        "updateBatch": "Marcando como feito os episódios **%1** à **%2** da série **%0** na posição **%3**!",
+        "unmarkBatch": "Desmarcando como feito os episódios **%1** à **%2** da série **%0** na posição **%3**!",
+        "terminateUpdate": "Terminando o comando devido a um erro...",
+        "update": "Atualizar",
+        "done": {
+            "name": "completo",
+            "description": "Marque como completo uma posição específica",
+            "doneStaff": "Marcando **%0** como concluído.",
+            "show": {
+                "name": "show",
+                "description": "Show que será atualizado"
+            },
+            "staff": {
+                "name": "posições",
+                "description": "Posições que serão atualizadas"
+            },
+            "episode": {
+                "name": "episódio",
+                "description": "Episódio que será atualizado"
+            }
+        },
+        "undone": {
+            "name": "desfaser",
+            "description": "Marque como incompleto uma posição específica",
+            "undonestaff": "Marcando **%0** como incompleto.",
+            "show": {
+                "name": "show",
+                "description": "Show que será atualizado"
+            },
+            "staff": {
+                "name": "posições",
+                "description": "Posições que serão atualizadas"
+            },
+            "episode": {
+                "name": "episódio",
+                "description": "Episódio que será atualizado"
+            }
+        },
+        "release": {
+            "name": "publique",
+            "description": "Publique o episódio",
+            "message": "Episódio publicado!",
+            "show": {
+                "name": "nome",
+                "description": "Show que será atualizado"
+            }
+        },
+        "blame": {
+            "name": "culpa",
+            "description": "Verifique o status do episódio",
+            "show": {
+                "name": "show",
+                "description": "Show que será atualizado"
+            },
+            "episode": {
+                "name": "episódio",
+                "description": "Episódio que será atualizado"
+            }
+        },
+        "blameall": {
+            "message": "Verificando a série **%0** com a posição **%1**!",
+            "name": "culpetodos",
+            "description": "Verifique o status de uma série por uma posição específica",
+            "show": {
+                "name": "show",
+                "description": "Show que será atualizado"
+            },
+            "staff": {
+                "name": "posições",
+                "description": "Posições que serão atualizadas"
+            }
+        },
+        "register": {
+            "registerOk": "Token adicionado com sucesso ao servidor!",
+            "alreadyToken": "Este server já possui um token.",
+            "error": "Algo ocorreu ao tentar adicionar a informação.",
+            "name": "registrar",
+            "description": "Registre o Deschtimes token do seu grupo ao servidor",
+            "token": {
+                "name": "token",
+                "description": "O Deschtimes token do seu grupo"
+            }
+        },
+        "Embeds": {
+            "staffStatus": "Status",
+            "lastUpdate": "Útima Atualização",
+            "airs": "Ao Ar",
+            "aired": "Transmitido"
+        }
+    }
+}

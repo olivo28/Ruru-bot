@@ -1,0 +1,38 @@
+{
+    "Deschtimes": {
+        "noToken": "No hay token registrado para este servidor, por favor usar el comando /deschtimes registro para esto.",
+        "error": "¡Lo siento, ocurrió un problema!",
+        "noShow": "No se encontró ningún anime que coincida.",
+        "noStaff": "No hay ninguna posición que coincida.",
+        "notAired": "Este episodio aún no se emite.",
+        "updateBatch": "¡Marcando como lista la serie **%0** del episoodio **%1** al **%2** en la posición de **%3**!",
+        "unmarkBatch": "¡Desmarcando como lista la serie **%0** del episoodio **%1** al **%2** en la posición de **%3**!",
+        "alreadyCompleted": "La posición ya ha sido marcada como lista.",
+        "alreadyUnmarked": "La posición ya ha sido marcada como incompleta.",
+        "terminateUpdate": "Terminando comando debido a un error...",
+        "update": "Actualización", 
+        "done": {
+            "doneStaff": "Felicidades, la posición de **%0** ha sido marcada como lista."
+        },
+        "undone": {
+            "undoneStaff": "Ay que mal, la posición de **%0** ha sido desmarcada como lista."
+        },
+        "release": {
+            "message": "¡Episodio publicado!"
+        },
+        "blameall": {
+            "message": "¡Revisando la serie **%0** en la posición de **%1**!"
+        },
+        "register": {
+            "registerOk": "¡Se ha agregado el token para este server!",
+            "alreadyToken": "Ya existe un token para este servidor.",
+            "error": "Algo ocurrió mientras se intentaba agregar la información."
+        },
+        "Embeds": {
+            "staffStatus": "Estado",
+            "lastUpdate": "Última actualización",
+            "airs": "Se emite en",
+            "aired": "Emitido  hace"
+        }
+    }
+}
