@@ -96,5 +96,19 @@
             "airs": "Släpps",
             "aired": "Släppt"
         }
+    },
+    "Config": {
+        "noPerms": "You don't have the ManageMessages permission, contact a admin or mod that have it.",
+        "linksFix": "Rich embeds or Change Urls",
+        "serverConfig": "Server config",
+        "nyaatrue" : "Nyaa/Sukebei Rich Embed Enabled",
+        "nyaafalse" : "Nyaa/Sukebei Rich Embed Disabled",
+        "twittertrue" : "Twitter URL Rewrite Enabled (Twitter/X to FXTwitter/FixupX)",
+        "twitterfalse" : "Twitter URL Rewrite Disabled (Twitter/X to FXTwitter/FixupX)",
+        "reddittrue" : "Reddit URL Rewrite Enabled (Reddit to Rxddit)",
+        "redditfalse" : "Reddit URL Rewrite Disabled (Reddit to Rxddit)",
+        "botconfig" : "Set the config of Ruru for this server.",
+        "configbot" : "Server-side bot configuration",
+        "noAutor" : "You are not the author of the /config command."
     }
 }

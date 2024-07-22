@@ -34,5 +34,19 @@
             "airs": "Se emite en",
             "aired": "Emitido  hace"
         }
+    },
+    "Config": {
+        "noPerms": "No tienes permiso para administrar mensajes, por favor avisale a algún mod u admin que sí lo tenga.",
+        "linksFix": "Embeds o cambiar links",
+        "serverConfig": "Configuración del servidor",
+        "nyaatrue" : "Habilitado el Embed Inteligente de Nyaa",
+        "nyaafalse" : "Deshabilitado el Embed Inteligente de Nyaa",
+        "twittertrue" : "Habilitado el cambio de URL de Twitter (Twitter/X a FXTwitter/FixupX)",
+        "twitterfalse" : "Deshabilitadoel cambio de URL de Twitter (Twitter/X a FXTwitter/FixupX)",
+        "reddittrue" : "Habilitado el cambio de URL de Reddit (Reddit a Rxddit",
+        "redditfalse" : "Deshabilitado el cambio de URL de Reddit (Reddit a Rxddit",
+        "botconfig" : "Cambia la configuración de Ruru en este servidor",
+        "configbot" : "Configuración del servidor",
+        "noAutor" : "Solo el autor original puede responder a los botones."
     }
 }
