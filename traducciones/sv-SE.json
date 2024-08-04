@@ -10,6 +10,7 @@
         "updateBatch": "Markerar **%3** som slutförd för avsnitt **%1** till **%2** av **%0**!",
         "unmarkBatch": "Markerar **%3** som icke slutförd för avsnitt **%1** till **%2** av **%0**!",
         "terminateUpdate": "Avslutar uppdatering på grund av ett fel...",
+        "noEpisodeNumber": "Avsnitt inte hittat.\nDu kan hänvisa till avsnitt: **%0**?",
         "update" : "Update",
         "done": {
             "name": "klar",

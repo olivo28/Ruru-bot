@@ -10,6 +10,7 @@
         "updateBatch": "Marcando como feito os episódios **%1** à **%2** da série **%0** na posição **%3**!",
         "unmarkBatch": "Desmarcando como feito os episódios **%1** à **%2** da série **%0** na posição **%3**!",
         "terminateUpdate": "Terminando o comando devido a um erro...",
+        "noEpisodeNumber": "Episódio não encontrado.\nVocê pode se referir ao episódio: **%0**?",
         "update": "Atualizar",
         "done": {
             "name": "completo",

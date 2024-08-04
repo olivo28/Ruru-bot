@@ -10,6 +10,7 @@
         "updateBatch": "A(z) **%0** című anime **%1** - **%2** részein **%3** késznek jelölése!",
         "unmarkBatch": "A(z) **%0** című anime **%1** - **%2** részein **%3** visszavonása!",
         "terminateUpdate": "Frissítés befejezése hiba miatt...",
+        "noEpisodeNumber": "Nem található az adott epizód.\nA referencia: **%0**?",
         "update": "Frissítés",
         "done": {
             "name": "kész",

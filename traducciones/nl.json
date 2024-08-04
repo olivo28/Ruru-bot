@@ -10,6 +10,7 @@
         "updateBatch": "De positie, **%3**, wordt gemarkeerd als voltooid voor afleveringen **%1** tot **%2** van **%0**!",
         "unmarkBatch": "De positie, **%3**, wordt gemarkeerd als onvoltooid voor afleveringen **%1** tot **%2** van **%0**!",
         "terminateUpdate": "Update wordt afgehandled wegens een error...",
+        "noEpisodeNumber": "Aflevering niet gevonden.\nJe kunt naar aflevering **%0** verwijzen.",
         "update": "Update",
         "done": {
             "name": "afgerond",

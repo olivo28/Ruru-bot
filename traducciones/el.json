@@ -10,6 +10,7 @@
         "updateBatch": "Marking **%3** complete for episodes **%1** to **%2** of **%0**!",
         "unmarkBatch": "Marking **%3** incomplete for episodes **%1** to **%2** of **%0**!",
         "terminateUpdate": "Finishing update because an error...",
+        "noEpisodeNumber": "Episode not found.\nYou may refer to episode: **%0**?",
         "update" : "Update",
         "done": {
             "name": "done",

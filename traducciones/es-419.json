@@ -10,6 +10,7 @@
         "alreadyCompleted": "La posición ya ha sido marcada como lista.",
         "alreadyUnmarked": "La posición ya ha sido marcada como incompleta.",
         "terminateUpdate": "Terminando comando debido a un error...",
+        "noEpisodeNumber": "Episodio no encontrado.\n¿No te referiras al episodio **%0**?",
         "release": {
             "message": "¡Episodio publicado!"
         },
@@ -35,7 +36,7 @@
         "nyaatrue" : "Habilitado el Embed Inteligente de Nyaa",
         "nyaafalse" : "Deshabilitado el Embed Inteligente de Nyaa",
         "twittertrue" : "Habilitado el cambio de URL de Twitter (Twitter/X a FXTwitter/FixupX)",
-        "twitterfalse" : "Deshabilitadoel cambio de URL de Twitter (Twitter/X a FXTwitter/FixupX)",
+        "twitterfalse" : "Deshabilitado el cambio de URL de Twitter (Twitter/X a FXTwitter/FixupX)",
         "reddittrue" : "Habilitado el cambio de URL de Reddit (Reddit a Rxddit",
         "redditfalse" : "Deshabilitado el cambio de URL de Reddit (Reddit a Rxddit",
         "botconfig" : "Cambia la configuración de Ruru en este servidor",
